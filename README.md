@@ -1,16 +1,720 @@
-## Hi there 👋
 
-<!--
-**Hariharan-2006/Hariharan-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hariharan M
 
-Here are some ideas to get you started:
+> Full Stack Developer | MERN Stack | Java | DSA Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- This is a starter premium README template. Duplicate/customize sections as needed. -->
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;MERN+Stack;Open+Source+Learner)
+
+---
+
+# 🚀 About Me
+
+```java
+class Hariharan {
+    String role = "Full Stack Developer";
+    String location = "Chennai, India";
+    String learning = "System Design, MERN, DSA";
+    String goal = "Software Engineer at a Product Company";
+}
+```
+
+## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hariharan-2006&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-2006&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hariharan-2006&theme=tokyonight)
+
+## 📈 Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharan-2006&theme=tokyo-night)
+
+## 🏆 Featured Projects
+
+- IRIS Payroll Management System
+- Library Management System
+- MERN Projects
+- DSA Solutions
+
+## 🎯 2026 Goals
+
+- Solve 500+ LeetCode problems
+- Build production-ready MERN applications
+- Contribute to Open Source
+- Land a Software Engineer role
+
+---
+
+## 📫 Connect
+
+- LinkedIn: Add your link
+- Email: m.hariharanm.hariharan2006@gmail.com
+
+---
+
+<!-- Customization placeholder line 67: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 68: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 69: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 70: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 71: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 72: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 73: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 74: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 75: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 76: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 77: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 78: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 79: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 80: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 81: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 82: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 83: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 84: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 85: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 86: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 87: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 88: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 89: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 90: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 91: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 92: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 93: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 94: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 95: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 96: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 97: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 98: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 99: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 100: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 101: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 102: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 103: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 104: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 105: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 106: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 107: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 108: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 109: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 110: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 111: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 112: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 113: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 114: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 115: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 116: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 117: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 118: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 119: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 120: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 121: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 122: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 123: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 124: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 125: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 126: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 127: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 128: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 129: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 130: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 131: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 132: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 133: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 134: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 135: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 136: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 137: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 138: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 139: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 140: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 141: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 142: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 143: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 144: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 145: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 146: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 147: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 148: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 149: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 150: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 151: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 152: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 153: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 154: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 155: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 156: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 157: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 158: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 159: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 160: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 161: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 162: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 163: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 164: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 165: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 166: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 167: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 168: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 169: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 170: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 171: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 172: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 173: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 174: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 175: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 176: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 177: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 178: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 179: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 180: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 181: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 182: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 183: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 184: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 185: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 186: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 187: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 188: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 189: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 190: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 191: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 192: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 193: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 194: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 195: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 196: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 197: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 198: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 199: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 200: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 201: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 202: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 203: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 204: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 205: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 206: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 207: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 208: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 209: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 210: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 211: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 212: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 213: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 214: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 215: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 216: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 217: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 218: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 219: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 220: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 221: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 222: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 223: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 224: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 225: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 226: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 227: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 228: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 229: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 230: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 231: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 232: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 233: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 234: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 235: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 236: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 237: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 238: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 239: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 240: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 241: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 242: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 243: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 244: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 245: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 246: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 247: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 248: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 249: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 250: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 251: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 252: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 253: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 254: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 255: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 256: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 257: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 258: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 259: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 260: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 261: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 262: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 263: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 264: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 265: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 266: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 267: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 268: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 269: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 270: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 271: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 272: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 273: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 274: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 275: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 276: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 277: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 278: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 279: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 280: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 281: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 282: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 283: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 284: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 285: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 286: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 287: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 288: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 289: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 290: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 291: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 292: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 293: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 294: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 295: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 296: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 297: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 298: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 299: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 300: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 301: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 302: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 303: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 304: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 305: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 306: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 307: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 308: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 309: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 310: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 311: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 312: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 313: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 314: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 315: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 316: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 317: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 318: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 319: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 320: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 321: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 322: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 323: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 324: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 325: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 326: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 327: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 328: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 329: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 330: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 331: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 332: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 333: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 334: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 335: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 336: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 337: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 338: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 339: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 340: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 341: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 342: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 343: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 344: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 345: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 346: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 347: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 348: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 349: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 350: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 351: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 352: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 353: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 354: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 355: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 356: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 357: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 358: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 359: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 360: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 361: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 362: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 363: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 364: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 365: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 366: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 367: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 368: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 369: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 370: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 371: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 372: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 373: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 374: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 375: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 376: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 377: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 378: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 379: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 380: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 381: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 382: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 383: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 384: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 385: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 386: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 387: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 388: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 389: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 390: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 391: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 392: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 393: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 394: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 395: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 396: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 397: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 398: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 399: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 400: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 401: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 402: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 403: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 404: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 405: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 406: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 407: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 408: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 409: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 410: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 411: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 412: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 413: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 414: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 415: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 416: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 417: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 418: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 419: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 420: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 421: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 422: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 423: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 424: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 425: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 426: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 427: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 428: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 429: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 430: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 431: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 432: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 433: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 434: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 435: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 436: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 437: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 438: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 439: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 440: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 441: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 442: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 443: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 444: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 445: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 446: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 447: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 448: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 449: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 450: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 451: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 452: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 453: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 454: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 455: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 456: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 457: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 458: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 459: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 460: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 461: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 462: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 463: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 464: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 465: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 466: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 467: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 468: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 469: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 470: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 471: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 472: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 473: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 474: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 475: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 476: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 477: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 478: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 479: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 480: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 481: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 482: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 483: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 484: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 485: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 486: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 487: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 488: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 489: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 490: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 491: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 492: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 493: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 494: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 495: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 496: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 497: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 498: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 499: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 500: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 501: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 502: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 503: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 504: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 505: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 506: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 507: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 508: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 509: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 510: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 511: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 512: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 513: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 514: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 515: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 516: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 517: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 518: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 519: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 520: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 521: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 522: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 523: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 524: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 525: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 526: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 527: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 528: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 529: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 530: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 531: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 532: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 533: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 534: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 535: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 536: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 537: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 538: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 539: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 540: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 541: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 542: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 543: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 544: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 545: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 546: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 547: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 548: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 549: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 550: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 551: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 552: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 553: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 554: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 555: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 556: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 557: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 558: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 559: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 560: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 561: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 562: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 563: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 564: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 565: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 566: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 567: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 568: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 569: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 570: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 571: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 572: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 573: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 574: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 575: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 576: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 577: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 578: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 579: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 580: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 581: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 582: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 583: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 584: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 585: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 586: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 587: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 588: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 589: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 590: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 591: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 592: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 593: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 594: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 595: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 596: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 597: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 598: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 599: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 600: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 601: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 602: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 603: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 604: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 605: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 606: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 607: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 608: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 609: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 610: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 611: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 612: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 613: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 614: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 615: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 616: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 617: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 618: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 619: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 620: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 621: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 622: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 623: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 624: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 625: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 626: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 627: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 628: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 629: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 630: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 631: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 632: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 633: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 634: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 635: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 636: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 637: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 638: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 639: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 640: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 641: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 642: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 643: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 644: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 645: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 646: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 647: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 648: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 649: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 650: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 651: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 652: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 653: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 654: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 655: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 656: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 657: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 658: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 659: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 660: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 661: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 662: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 663: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 664: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 665: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 666: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 667: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 668: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 669: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 670: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 671: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 672: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 673: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 674: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 675: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 676: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 677: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 678: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 679: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 680: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 681: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 682: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 683: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 684: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 685: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 686: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 687: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 688: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 689: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 690: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 691: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 692: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 693: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 694: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 695: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 696: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 697: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 698: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 699: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 700: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 701: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 702: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 703: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 704: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 705: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 706: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 707: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 708: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 709: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 710: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 711: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 712: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 713: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 714: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 715: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 716: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 717: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 718: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 719: Add screenshots, project cards, blogs, achievements, or widgets here. -->
+<!-- Customization placeholder line 720: Add screenshots, project cards, blogs, achievements, or widgets here. -->
