@@ -9,16 +9,22 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```java
 class Hariharan {
+
     String role = "Full Stack Developer";
+
     String location = "Chennai, India";
-    String learning = "System Design, MERN, DSA";
-    String goal = "Software Engineer at a Product Company";
+
+    String learning = "System Design • MERN • DSA";
+
+    String goal = "Software Engineer @ Product Company";
+
 }
 ```
+
 
 ## 🛠 Tech Stack
 
